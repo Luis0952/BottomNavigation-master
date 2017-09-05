@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_1"
+        android:title="@string/str_item_1"
+        android:icon="@drawable/actualizar_96"
+        />
+    <item
+        android:id="@+id/item_2"
+        android:title="@string/str_item_2"
+        android:icon="@drawable/agregar_a_favoritos_96" />
+    <item
+        android:id="@+id/item_3"
+        android:title="@string/str_item_3"
+        android:icon="@drawable/cerca_de_m__96" />
+</menu>
